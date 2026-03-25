@@ -23,8 +23,5 @@ This project showcases an interactive Power BI dashboard analyzing Super Store s
 - Excel / CSV  
 - DAX  
 
-## 🚀 How to Use  
-Download the `.pbix` file and open it in Power BI Desktop to explore the dashboard.
-
 ## 💡 Insights  
 Focus on boosting online payments, improving low-performing regions, and leveraging high-demand products for growth.
